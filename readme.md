@@ -9,8 +9,6 @@ a simple database using github codespaces
 * open code space
 * in terminal type
 
-### Executing program
-
 * How to run the program
 * Step-by-step bullets
 ```
