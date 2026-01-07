@@ -1,9 +1,6 @@
 # github database
 
 a simple database using github codespaces
-
-## Getting Started
-
 ### Starting
 
 * open code space
